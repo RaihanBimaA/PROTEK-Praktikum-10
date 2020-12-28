@@ -1,0 +1,3 @@
+k3518001|Amir|Solo
+k3518002|Budi|Semarang
+k3518003|Cici|Jakarta
